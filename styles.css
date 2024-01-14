@@ -1,0 +1,37 @@
+  body {
+          background-color: #979d9e;
+        }
+        .weather-app-body {
+          background-color: white;
+          width: 60%;
+          display: block;
+          margin: 0 auto;
+          margin-top: 60px;
+        }
+        headers {
+          margin-left: 24px;
+        }
+        .input-box {
+          margin: 0 auto;
+          margin-left: 24px;
+          margin-top: 24px;
+          padding: 5px 200px 5px 4px;
+        }
+        .submit-button {
+          padding: 5px 15px;
+          background-color: #8064e9;
+          border-radius: 5px;
+        }
+        section {
+          margin-left: 24px;
+        }
+        h1 {
+          margin-bottom: 3px;
+        }
+        strong {
+          color: #ea6b6b;
+        }
+        footer {
+          margin-left: 24px;
+          padding: 60px;
+        }
